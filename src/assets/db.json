@@ -2,11 +2,11 @@
   "users": [
     {
       "id": 1,
-      "email": "john.doe@example.com",
+      "email": "jaswanth@gmail.com",
       "password": "password123",
-      "firstName": "John",
-      "lastName": "Doe",
-      "location": "New York",
+      "firstName": "jaswanth",
+      "lastName": "gone",
+      "location": "manuguru",
       "mobileNumber": "1234567890"
     },
     {
@@ -17,26 +17,49 @@
       "lastName": "Smith",
       "location": "Los Angeles",
       "mobileNumber": "0987654321"
+    },
+    {
+      "email": "jaswanthgone983@gmail.com",
+      "password": "jaswanth",
+      "firstName": "Gone",
+      "lastName": "Jaswanth",
+      "location": "hyderabad",
+      "mobileNumber": "7287855125",
+      "id": 3
     }
   ],
   "products": [
     {
-      "id": 101,
-      "name": "Laptop",
-      "description": "A powerful gaming laptop",
-      "manufacturer": "Tech Corp",
-      "manufacturingDate": "2024-01-10",
-      "price": 1200,
-      "quantity": 10
+      "name": "MacBook M4",
+      "description": "Apple M4 chip with 10-core CPU, 8-core GPU, 16‑core Neural Engine",
+      "manufacturer": "Apple",
+      "price": 90000,
+      "quantity": 1,
+      "id": 1741869921055
     },
     {
-      "id": 102,
-      "name": "Smartphone",
-      "description": "Latest smartphone with 5G",
-      "manufacturer": "Mobile Inc",
-      "manufacturingDate": "2024-02-15",
-      "price": 800,
-      "quantity": 25
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with Bluetooth connectivity",
+      "manufacturer": "Logitech",
+      "price": 5000,
+      "quantity": 10,
+      "id": 1741874818959
+    },
+    {
+      "name": "Gaming Keyboard",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "manufacturer": "Razer",
+      "price": 2000,
+      "quantity": 4,
+      "id": 1741875003829
+    },
+    {
+      "name": "Wireless Headphones",
+      "description": "Noise-canceling wireless headphones with long battery life.",
+      "manufacturer": "Sony",
+      "price": 1500,
+      "quantity": 1,
+      "id": 1741875055405
     }
   ]
 }
